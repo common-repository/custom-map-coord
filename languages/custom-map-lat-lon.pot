@@ -1,0 +1,38 @@
+# Copyright (C) 2019 Geolocation
+# This file is distributed under the same license as the Custom Map Coordinates package.
+
+#: /admin/partials/custom-map-lat-lon-admin-menu.php:16
+msgid "Custom Map Coordinates"
+msgstr ""
+
+#: /admin/partials/custom-map-lat-lon-admin-menu.php:17
+msgid "Custom Map"
+msgstr ""
+
+#: /admin/partials/custom-map-lat-lon-admin-menu.php:69
+msgid "Latitude"
+msgstr ""
+
+#: /admin/partials/custom-map-lat-lon-admin-menu.php:75
+msgid "Latitude"
+msgstr ""
+
+#: /admin/partials/custom-map-lat-lon-admin-menu.php:83
+msgid "Save Changes"
+msgstr ""
+
+#: /admin/js/custom-map-lat-lon-gutenberg.js:8
+msgid "Custom Map Coordinates"
+msgstr ""
+
+#: /admin/js/custom-map-lat-lon-gutenberg.js:9
+msgid "A custom block to display google map with latitude & longitude"
+msgstr ""
+
+#: /admin/partials/custom-map-lat-lon-admin-menu:83
+msgid "Changes"
+msgstr ""
+
+#: /admin/partials/custom-map-lat-lon-admin-menu:83
+msgid "Changes"
+msgstr ""
